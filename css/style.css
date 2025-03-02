@@ -38,7 +38,7 @@ body{
     cursor: pointer;
 }
 .explore::after{
-    content: url(/img/vector.svg);
+    content: url('../img/vector.svg');
     padding-left: 8px;
 }
 nav ul li ul li a{
@@ -841,7 +841,7 @@ header{
     height: 445px;
 }
 .form-block{
-    background-image: url(/img/image-input.png);
+    background-image: url('../img/image-input.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -967,19 +967,19 @@ footer{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(/img/Frame.png);
+    background-image: url('../img/Frame.png');
 }
 .facebook{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(/img/Facebook.png);
+    background-image: url('../img/Facebook.png');
 }
 .in{
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url(/img/in.png);
+    background-image: url('../img/in.png');
 }
 .text-two-footer{
     color: #000;
